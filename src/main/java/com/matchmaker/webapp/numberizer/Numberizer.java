@@ -2,8 +2,9 @@ package com.matchmaker.webapp.numberizer;
 
 /**
  * 
- * @author Giannis Konomis Numberizer converts a name into the arithmetic sum of
- *         the name letters(ASCII codes)
+ * @author Giannis Konomis 
+ * Numberizer converts a name into the arithmetic sum of the name letters(ASCII codes)
+ *        
  *
  */
 
@@ -11,8 +12,7 @@ public class Numberizer {
 
 	/**
 	 * 
-	 * @param name
-	 *            The male name to be converted.
+	 * @param name The male name to be converted.
 	 * @return The sum of the name letters(ASCII codes)
 	 */
 
